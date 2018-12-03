@@ -10,6 +10,7 @@
  * [Spring boot web service]()
  * [Spring boot jpa]()
  * [Sring boot exception]()
+ * [Spring boot externalize configuration]()
  * [Spring boot test]()
  * [Spring boot logging]()
  * [Spring boot reporting]()
