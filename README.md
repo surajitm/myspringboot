@@ -7,9 +7,11 @@
  * [Spring boot actuator]()
  * [Spring boot web app]()
  * [Spring boot web service]()
+ * [Spring boot jpa]()
  * [Sring boot exception]()
  * [Spring boot test]()
  * [Spring boot logging]()
  * [Spring boot reporting]()
  * [Spring boot cloud(AWS)]()
+ * [Spring boot trip & trap]()
 
