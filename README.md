@@ -6,6 +6,7 @@
  * [Spring boot starters,auto config]()
  * [Spring boot actuator]()
  * [Spring boot web app]()
+ * [Spring embeded server]()
  * [Spring boot web service]()
  * [Spring boot jpa]()
  * [Sring boot exception]()
